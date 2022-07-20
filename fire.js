@@ -44,7 +44,7 @@ const fireColorsPalette = [
 start = () => {
     createFireDataStructure();
     creatFireSource()
-    setInterval(calculateFirePropagation, 10)
+    setInterval(calculateFirePropagation, 50)
 
 }
 createFireDataStructure = () => {
@@ -96,7 +96,7 @@ renderFire = () => {
             html += '</td>'
            } else {
             const color = fireColorsPalette[fireIntensity]
-            const colorString = `${color.r}, ${color.g}, ${color.b}`
+            const colorString = `${color.b}, ${color.g}, ${color.r}`
             html += `<td style="background-color: rgb(${colorString})">`
             html += '</td>'
            }
