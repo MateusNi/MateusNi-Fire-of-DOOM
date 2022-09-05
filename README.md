@@ -3,7 +3,8 @@
 
 #
 <div>
-  <p> Esse projeto imita o fogo classíco do game DOOM de 1993, todos os creditos desse projeto vão para o magnífico canal do <a               href="https://www.youtube.com/c/FilipeDeschamps">Filipe Deschamps</a>. Fiz  apenas algumas alterações ao meu gosto. </p>
+  <p> Esse projeto imita o fogo classíco do game DOOM de 1993, creditos desse projeto vão para o magnífico canal do <a               href="https://www.youtube.com/c/FilipeDeschamps">Filipe Deschamps</a>. Fiz  apenas algumas alterações ao meu gosto.
+  Dê uma olhada https://mateusni.github.io/MateusNi-Fire-of-DOOM/</p>
 
   <p> Um pouco de história:
 "A primeira versão do jogo Doom foi lançada para PC em 1993, há 27 anos atrás! E para ser possível existir algo desse nível naquela época, o mestre          John Carmack teve que fazer vários hacks inteligentes. Depois disso os anos foram passando e vários ports foram feitos para outros consoles, como Super    Nintendo, Playstation, Nintendo 64 e etc."</p>
