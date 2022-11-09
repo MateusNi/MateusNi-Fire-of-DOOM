@@ -115,5 +115,4 @@ creatFireSource = () => {
         firePixelsArray[pixelIndex] = 36
     }
 }
-
 start();
